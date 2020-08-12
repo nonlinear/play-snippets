@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-circle(${1:x}, ${2:y}, ${3:radius})
+circle(${1:x}, ${2:y}, ${3:radius});
 ]]></content>
-    <description>p5*js circle</description>
+    <description>p5js circle</description>
     <tabTrigger>circle</tabTrigger>
 </snippet>

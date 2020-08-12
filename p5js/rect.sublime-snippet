@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-rect(${1:x}, ${2:y}, ${3:width}, ${4:height})
+rect(${1:x}, ${2:y}, ${3:width}, ${4:height});
 ]]></content>
-    <description>p5*js rect</description>
+    <description>p5js rect</description>
     <tabTrigger>rect</tabTrigger>
 </snippet>

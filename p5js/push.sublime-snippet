@@ -1,9 +1,9 @@
 <snippet>
 <content><![CDATA[
-push()
+push();
 	$1
-pop()
+pop();
 ]]></content>
-    <description>p5*js push/pop</description>
+    <description>p5js push/pop</description>
     <tabTrigger>push</tabTrigger>
 </snippet>

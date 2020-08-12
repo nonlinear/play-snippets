@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-console.log(${2:'$1'})
+console.log(${2:'$1'});
 ]]></content>
-    <description>p5*js console.log</description>
+    <description>p5js console.log</description>
     <tabTrigger>console.log</tabTrigger>
 </snippet>

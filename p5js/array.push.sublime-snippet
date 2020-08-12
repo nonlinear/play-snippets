@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-${1:variable}.push("${2:new_value}")
+${1:variable}.push("${2:new_value}");
 ]]></content>
-    <description>p5*js array.push</description>
+    <description>p5js array.push</description>
     <tabTrigger>array.push</tabTrigger>
 </snippet>

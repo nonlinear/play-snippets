@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-round($1)
+round($1);
 ]]></content>
-    <description>p5*js round</description>
+    <description>p5js round</description>
     <tabTrigger>round</tabTrigger>
 </snippet>

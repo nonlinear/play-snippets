@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-scale($1)
+scale($1);
 ]]></content>
-    <description>p5*js scale</description>
+    <description>p5js scale</description>
     <tabTrigger>scale</tabTrigger>
 </snippet>

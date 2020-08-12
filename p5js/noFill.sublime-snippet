@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-noFill()
+noFill();
 ]]></content>
-    <description>p5*js noFill</description>
+    <description>p5js noFill</description>
     <tabTrigger>nofill</tabTrigger>
 </snippet>

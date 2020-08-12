@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-translate($1, $2)
+translate($1, $2);
 ]]></content>
-    <description>p5*js translate</description>
+    <description>p5js translate</description>
     <tabTrigger>translate</tabTrigger>
 </snippet>

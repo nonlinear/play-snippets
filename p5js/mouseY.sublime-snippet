@@ -2,6 +2,6 @@
 <content><![CDATA[
 mouseY
 ]]></content>
-    <description>p5*js vertical mouse position</description>
+    <description>p5js vertical mouse position</description>
     <tabTrigger>mouse</tabTrigger>
 </snippet>

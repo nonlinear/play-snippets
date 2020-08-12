@@ -1,7 +1,7 @@
 <snippet>
 <content><![CDATA[
-fill($1)
+fill($1);
 ]]></content>
-    <description>p5*js fill</description>
+    <description>p5js fill</description>
     <tabTrigger>fill</tabTrigger>
 </snippet>

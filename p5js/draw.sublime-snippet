@@ -4,6 +4,6 @@ function draw($1){
 	${2:// put things in here to do every frame}
 }
 ]]></content>
-    <description>p5*js draw</description>
+    <description>p5js draw</description>
     <tabTrigger>draw</tabTrigger>
 </snippet>

@@ -2,6 +2,6 @@
 <content><![CDATA[
 vertex(${1:x}, ${2:y}${3:, ${4:u}})
 ]]></content>
-    <description>p5*js vertex</description>
+    <description>p5js vertex</description>
     <tabTrigger>vertex</tabTrigger>
 </snippet>

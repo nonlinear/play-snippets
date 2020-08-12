@@ -4,6 +4,6 @@ function preload($1){
 	${2:// put things in here to load before anything else in your sketch, like images}
 }
 ]]></content>
-    <description>p5*js preload</description>
+    <description>p5js preload</description>
     <tabTrigger>preload</tabTrigger>
 </snippet>

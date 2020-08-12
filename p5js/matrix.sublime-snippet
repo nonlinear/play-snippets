@@ -2,8 +2,8 @@
 <content><![CDATA[
 pushMatrix();
 	$1
-popMatrix()
+popMatrix();
 ]]></content>
-    <description>p5*js matrix</description>
+    <description>p5js matrix</description>
     <tabTrigger>matrix</tabTrigger>
 </snippet>
