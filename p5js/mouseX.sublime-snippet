@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+mouseX
+]]></content>
+    <description>p5*js horizontal mouse position</description>
+    <tabTrigger>mouse</tabTrigger>
+</snippet>

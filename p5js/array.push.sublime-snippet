@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+${1:variable}.push("${2:new_value}")
+]]></content>
+    <description>p5*js array.push</description>
+    <tabTrigger>array.push</tabTrigger>
+</snippet>
