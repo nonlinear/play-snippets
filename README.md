@@ -1,12 +1,7 @@
-# p5js-snippets
+# play-snippets
 
-<a href="https://praxis.nyc"><img src="https://praxis.nyc/assets/favicons/apple-touch-icon.png" width="60px" height="60px" /></a>
+Creative code sublime snippets
 
-Snippets for your p5js creations. For Sublime and Atom.
-
-> This is a companion for [Praxis Processing](https://praxis.nyc/processing) workshop. Check also [p5js-template](https://github.com/praxisnyc/p5js-template).
-
-> Questions? Comments? Debugging? [Join our Processing group on keybase](https://keybase.io/team/praxis_nyc.processing).
 
 |Group|Functions|Description|
 |---|---|---|
@@ -21,15 +16,15 @@ Snippets for your p5js creations. For Sublime and Atom.
 	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
 	- **linux:** `cd ~/.config/sublime-text-3/Packages`
 	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User"`
-2. clone repository `git clone https://github.com/praxisnyc/p5js-snippets.git p5js-snippets`
+2. clone repository `git clone https://github.com/nonlinear/play-snippets.git play-snippets`
 
 
 ## Sublime Text Update
 
-1. Move to p5js-snippets folder (change to `2` if previous version)
-	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/p5js-snippets`
-	- **linux:** `cd ~/.config/sublime-text-3/Packages/p5js-snippets`
-	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User\p5js-snippets"`
+1. Move to play-snippets folder (change to `2` if previous version)
+	- **mac:** `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/play-snippets`
+	- **linux:** `cd ~/.config/sublime-text-3/Packages/play-snippets`
+	- **windows:** `cd "%AppData%\Sublime Text 3\Packages\User\play-snippets"`
 2. `git pull`
 
 ## Atom Install
@@ -41,7 +36,7 @@ For atom you need to consolidate snippets after each edit.
 	- **linux:** `pending`
 	- **windows:** `pending`
 2. create snippets folder: `mkd snippets`
-3. clone repository `git clone https://github.com/praxisnyc/p5js-snippets.git p5js-snippets`
+3. clone repository `git clone https://github.com/nonlinear/play-snippets.git play-snippets`
 4. consolidate (below)
 
 ## Atom consolidate
@@ -54,8 +49,8 @@ For atom you need to consolidate snippets after each edit.
 
 ## Atom Update
 
-1. Move to p5js-snippets folder
-	- **mac:** `cd /.atom/snippets/p5js-snippets`
+1. Move to play-snippets folder
+	- **mac:** `cd /.atom/snippets/play-snippets`
 	- **linux:** `pending`
 	- **windows:** `pending`
 3. `git pull`
